@@ -1,1 +1,14 @@
+.gitignore
+
+# bin/*
+docs/
+docs/*
+# obj/*
 Proposal*
+
+GEMINI.md
+CLAUDE.md
+memo.md
+
+# config for ionide
+.fake

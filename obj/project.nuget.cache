@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTXW4TpFV9Q=",
+  "success": true,
+  "projectFilePath": "/Users/kangmin/Documents/수업 자료/주전공 (전산)/프로그래밍의 이해 (A)/term-project/term-project.fsproj",
+  "expectedPackageFiles": [
+    "/Users/kangmin/.nuget/packages/fsharp.core/10.0.107/fsharp.core.10.0.107.nupkg.sha512",
+    "/Users/kangmin/.nuget/packages/spectre.console/0.55.2/spectre.console.0.55.2.nupkg.sha512",
+    "/Users/kangmin/.nuget/packages/spectre.console.ansi/0.55.2/spectre.console.ansi.0.55.2.nupkg.sha512"
+  ],
+  "logs": []
+}

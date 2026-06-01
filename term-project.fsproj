@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>term_project</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="types.fs" />
+    <Compile Include="characters.fs" />
+    <Compile Include="player.fs" />
+    <Compile Include="board.fs" />
+    <Compile Include="menu.fs" />
+    <Compile Include="game.fs" />
+    <Compile Include="revival.fs" />
+    
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.55.2" />
+  </ItemGroup>
+
+</Project>
