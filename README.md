@@ -35,7 +35,7 @@ On the first run, the NuGet package (Spectre.Console) might be restored automati
 
 > [!WARNING]
 > For the best visual experience, use a terminal that supports **Unicode emoji rendering and ANSI escape codes**
-  (e.g., iTerm2 on macOS, Windows Terminal or Powershell on Windows). The default terminal size assumed by the game is **at least 80×24**; resizing may affect rendering.
+  (e.g., iTerm2 on macOS, Windows Terminal or Powershell on Windows). The default terminal size assumed by the game is **at least 80×25**; resizing may affect rendering.
 
 ---
 

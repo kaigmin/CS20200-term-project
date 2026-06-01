@@ -31,7 +31,7 @@ let main argv =
       BoardStairs = []
       StairGenState = (Direction.Left, 0)
 
-      TerminalSize = {| Width = 80; Height = 24 |} }
+      TerminalSize = {| Width = 80; Height = 25 |} }
 
   let mutable currentState = GameState.Lobby
   let mutable keepRunning = true
